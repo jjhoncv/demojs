@@ -9,8 +9,6 @@ console.log('Y ahora lo convertimos en fecha usando el metodo join ' + date.join
 var aunt = 'mi tia Lorenita';
 	list = ["papa", "cebolla", "arroz", "pollo"];
 console.log('La lista de '+ aunt + ' contiene ' + list.join(', ')+  ' y aji.');
-console.log(new Object(false));
-
 
 
 
